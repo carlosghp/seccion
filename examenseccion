@@ -1,0 +1,18 @@
+Seccion
+
+id: integer = 1,2,3
+nombre : String = 01, 02, 03, 04, 05
+latitud: real=19.8445901
+longitud: real=-90.5350973
+municipio: integer = 1, 2, 3
+ditrito: integer = 1, 2, 3
+listado:integer=2000
+votantes:intenger=600
+
+porcentajeParticipacion
+real(votantes)
+(600/2000)*100
+porcentajeAbstinencia real(faltantes)
+(1,400/2000)*100
+faltantes integer (votantes)
+2000-8600 = 1,400
